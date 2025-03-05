@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f112dd05-ab2a-4c2f-83fd-4a003db7c268}</ProjectGuid>
-    <RootNamespace>StringBasic</RootNamespace>
+    <ProjectGuid>{85adfc80-a424-4e2f-8b47-b92df2a8a298}</ProjectGuid>
+    <RootNamespace>FuncBasic</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="StringBasic.c" />
+    <ClCompile Include="FuncBasic.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
