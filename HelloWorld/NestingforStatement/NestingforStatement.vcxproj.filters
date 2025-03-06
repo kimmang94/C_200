@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NestingforStatement.cpp">
+    <ClCompile Include="NestingforStatement.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
