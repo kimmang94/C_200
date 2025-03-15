@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NestingConditionStatement",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NestingforStatement", "NestingforStatement\NestingforStatement.vcxproj", "{FB4B7796-03E2-4DF2-9A5C-1241E780B57D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Switch_Case_Default", "Switch_Case_Default\Switch_Case_Default.vcxproj", "{9D1DF7BC-F9B1-4384-8371-807EF9F206C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -321,6 +323,14 @@ Global
 		{FB4B7796-03E2-4DF2-9A5C-1241E780B57D}.Release|x64.Build.0 = Release|x64
 		{FB4B7796-03E2-4DF2-9A5C-1241E780B57D}.Release|x86.ActiveCfg = Release|Win32
 		{FB4B7796-03E2-4DF2-9A5C-1241E780B57D}.Release|x86.Build.0 = Release|Win32
+		{9D1DF7BC-F9B1-4384-8371-807EF9F206C1}.Debug|x64.ActiveCfg = Debug|x64
+		{9D1DF7BC-F9B1-4384-8371-807EF9F206C1}.Debug|x64.Build.0 = Debug|x64
+		{9D1DF7BC-F9B1-4384-8371-807EF9F206C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D1DF7BC-F9B1-4384-8371-807EF9F206C1}.Debug|x86.Build.0 = Debug|Win32
+		{9D1DF7BC-F9B1-4384-8371-807EF9F206C1}.Release|x64.ActiveCfg = Release|x64
+		{9D1DF7BC-F9B1-4384-8371-807EF9F206C1}.Release|x64.Build.0 = Release|x64
+		{9D1DF7BC-F9B1-4384-8371-807EF9F206C1}.Release|x86.ActiveCfg = Release|Win32
+		{9D1DF7BC-F9B1-4384-8371-807EF9F206C1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
